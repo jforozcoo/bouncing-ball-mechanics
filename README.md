@@ -1,9 +1,8 @@
 # bouncing-ball-mechanics
-Two-dimensional simulation of a ball bouncing off an irregular surface.
 
 This model simulates a ball bouncing in a surface that is represented by a 2D- curve.
 
-This model could be used to physics classes.
+The model could be used to physics classes.
 
 Here an output example:
 
